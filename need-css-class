@@ -1,11 +1,15 @@
-.require_icon{
+<sup><span class="require_icon"><i class="bi bi-asterisk"></i></span></sup>
+ .require_icon{
     color: rgb(203, 92, 92);
     font-size: 8px;
 }
+==========================
+<div class="bottom-devider"></div>
 .bottom-devider{
   border-bottom: 10px solid var(--secondary-color);
   width: 100px;
   text-align: center;
   margin: 0 auto;
-
+  outline: none;
 }
+================================
