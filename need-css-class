@@ -1,0 +1,4 @@
+.require_icon{
+    color: rgb(203, 92, 92);
+    font-size: 8px;
+}
