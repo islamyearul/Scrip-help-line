@@ -2,3 +2,10 @@
     color: rgb(203, 92, 92);
     font-size: 8px;
 }
+.bottom-devider{
+  border-bottom: 10px solid var(--secondary-color);
+  width: 100px;
+  text-align: center;
+  margin: 0 auto;
+
+}
