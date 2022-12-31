@@ -1,0 +1,12 @@
+
+npx react-native init AwesomeProject
+npx react-native init AwesomeTSProject --template react-native-template-typescript
+npx react-native start
+npx react-native run-android
+
+Firebase app connect SH1 key generate command = ./gradlew signinReport 
+step by step firebase google service connect,
+npm i firebase
+npm i react-navigation --save
+
+npx npm install react-native-gesture-handler react-native-safe-area-context @react-native-community/masked-view react-native-screens react-native-reanimated –save
