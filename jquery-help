@@ -1,0 +1,3 @@
+Stop event fire twice to one
+  e.stopImmediatePropagation();
+============================================
